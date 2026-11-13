@@ -1,4 +1,4 @@
-# Quiz Lab Struktur Data 3 & 4
+# Quiz Lab Struktur Data
 
 **Nama:** Naufal Rasyiq Dziqri Simanjuntak
 **NIM:** 251401002
@@ -11,11 +11,10 @@
 ```
 .
 ├── README.md
-└── src/
-    ├── soal1_nilai_mahasiswa.cpp
-    ├── soal2_perpustakaan.cpp
-    ├── soal3_rute_kampus.cpp
-    └── soal4_hash_table.cpp
+├── Soal1.cpp
+├── Soal2.cpp
+├── Soal3.cpp
+└── Soal4.cpp
 ```
 
 ## Deskripsi Program
@@ -31,7 +30,7 @@
 2. Kompilasi dan jalankan, misalnya soal 1:
 
 ```bash
-g++ -std=c++11 src/soal1_nilai_mahasiswa.cpp -o soal1
+g++ -std=c++11 Soal1.cpp -o soal1
 ./soal1
 ```
 
